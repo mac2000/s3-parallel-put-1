@@ -107,6 +107,7 @@ Related projects
 * [JetS3t](http://www.jets3t.org/)
 * [s3cmd](http://s3tools.org/s3cmd)
 * [sync_media_s3](http://code.google.com/p/django-command-extensions/wiki/sync_media_s3)
+* [s3-parallel-put](https://github.com/mac2000/s3-parallel-put) single executable for Windows
 
 
 Licence
